@@ -1,0 +1,14 @@
+Olá, professor. 
+Para executar o código será necessário instalar Python em sua máquina.
+
+* Tutorial:
+1- Cola o código em uma IDE de sua preferência e inicie o processo.
+2- Escolha o número de processos desejado e determine se o preenchimento será automáticom ou manual (Será possível refazer os processos novamente com a opção 7 do menu). 
+
+* OBS: 
+1- Usei os exemplos disponibilizados pelo senhor de entrada e saída, mas em alguns algoritimos o resultado teve uma difereça mínima do apresentado que não soube resolver.
+2- O código parece estar dentro do que o senhor pediu, espero fortemente que ele seja o necessário para que eu tire 6,9 (o necessário para que eu possa ser aprovado)
+3- O algorítimo Round Robin eu não consegui implementar de jeito nenhum, mas tentei até o último minuto. Decidi remover ele para não poluir o código (visto que ele estava uma bagunça de tanto que eu mexi).
+
+Agradeço a oportunidade e o semestre. 
+Boas festas!
